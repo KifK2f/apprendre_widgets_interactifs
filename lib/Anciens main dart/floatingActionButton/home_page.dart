@@ -97,7 +97,7 @@ class _HomePageState extends State<HomePage>{
         child: const Icon(Icons.add),
       ),
 
-
+      
       //Changer la osition de n'importe quelle FloatingActin Button que ce soit simple, extendes, large ou small
       floatingActionButtonLocation: FloatingActionButtonLocation.endTop,
 
