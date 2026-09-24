@@ -25,8 +25,6 @@ class _HomePageState extends State<HomePage>{
 
   RugbyClub? rugbyClub;
 
-
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
